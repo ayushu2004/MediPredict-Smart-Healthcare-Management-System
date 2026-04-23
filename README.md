@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 MediPredict – Smart Healthcare Management System
 
 A full-stack Hospital Management System built using Java, Spring Boot, JDBC, and MySQL to automate hospital operations like patient management, appointment scheduling, and billing.
 
